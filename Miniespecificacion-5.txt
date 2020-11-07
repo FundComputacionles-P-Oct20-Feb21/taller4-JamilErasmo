@@ -1,0 +1,19 @@
+Miniespecificaciones.
+
+1. Inicio
+//Declaro variables
+2. montoPrestamo, d[0,n]
+3. interesMensual, d[0,n]
+4. totalMensual, d[0,n]
+
+//Pido ingresar datos por entrada - teclado
+5. Escribir "Ingresar el monto del prestamo"
+6. Leer montoPrestamo
+7. Escribir "Ingresar el interés mensual a pagar"
+8. Leer interesMensual
+
+//Proceso
+9. totalMensual <-- montoPrestamo / 12 + interesMensual
+
+//Salida
+10. Escribir "El monto mesual a pagar es:" + totalMensual
